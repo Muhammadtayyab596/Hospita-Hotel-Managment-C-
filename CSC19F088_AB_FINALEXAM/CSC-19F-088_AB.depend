@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1599585183 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\bonedoctor.cpp
+	"BoneDoctor.h"
+
+1599585156 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\bonedoctor.h
+	"Doctor.h"
+
+1599584558 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\doctor.h
+	<iostream>
+
+1599584989 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\disease.cpp
+	"Disease.h"
+	<iostream>
+
+1599584961 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\disease.h
+	<iostream>
+	"Patient.h"
+
+1599584786 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\patient.h
+	<iostream>
+	"Doctor.h"
+
+1599584577 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\doctor.cpp
+	"Doctor.h"
+
+1599584701 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\hospital.cpp
+	"Hospital.h"
+
+1599584674 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\hospital.h
+	"Doctor.h"
+
+1599587475 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\main.cpp
+	<iostream>
+	<conio.h>
+	"Hospital.h"
+	"Doctor.h"
+	"Patient.h"
+	"Disease.h"
+	"Dentist.h"
+	"BoneDoctor.h"
+	"Room.h"
+	"Customer.h"
+	"Manager.h"
+	"CommonRoom.h"
+	"LuxoryRoom.h"
+	<vector>
+
+1599585042 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\dentist.h
+	"Doctor.h"
+
+1599584825 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\patient.cpp
+	"Patient.h"
+
+1599585273 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\dentist.cpp
+	"Dentist.h"
+
+1599585694 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\commonroom.cpp
+	"CommonRoom.h"
+
+1599585635 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\commonroom.h
+	"Room.h"
+
+1599585548 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\room.h
+	<iostream>
+	"Customer.h"
+
+1599585471 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\customer.h
+	<iostream>
+
+1599585487 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\customer.cpp
+	"Customer.h"
+
+1599585780 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\luxoryroom.cpp
+	"LuxoryRoom.h"
+
+1599585760 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\luxoryroom.h
+	"Room.h"
+
+1599585404 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\manager.cpp
+	"Manager.h"
+
+1599585385 c:\users\muhammad muneeb\desktop\csc-19f-088_ab\manager.h
+	"Customer.h"
+
+1599585570 source:c:\users\muhammad muneeb\desktop\csc-19f-088_ab\room.cpp
+	"Room.h"
+
+1599585183 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\bonedoctor.cpp
+	"BoneDoctor.h"
+
+1599585156 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\bonedoctor.h
+	"Doctor.h"
+
+1599584558 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\doctor.h
+	<iostream>
+
+1599585694 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\commonroom.cpp
+	"CommonRoom.h"
+
+1599585635 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\commonroom.h
+	"Room.h"
+
+1599585548 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\room.h
+	<iostream>
+	"Customer.h"
+
+1599585471 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\customer.h
+	<iostream>
+
+1599585487 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\customer.cpp
+	"Customer.h"
+
+1599585273 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\dentist.cpp
+	"Dentist.h"
+
+1599585042 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\dentist.h
+	"Doctor.h"
+
+1599584989 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\disease.cpp
+	"Disease.h"
+	<iostream>
+
+1599584961 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\disease.h
+	<iostream>
+	"Patient.h"
+
+1599584786 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\patient.h
+	<iostream>
+	"Doctor.h"
+
+1599584577 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\doctor.cpp
+	"Doctor.h"
+
+1599584701 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\hospital.cpp
+	"Hospital.h"
+
+1599584674 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\hospital.h
+	"Doctor.h"
+
+1599585780 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\luxoryroom.cpp
+	"LuxoryRoom.h"
+
+1599585760 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\luxoryroom.h
+	"Room.h"
+
+1599587475 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\main.cpp
+	<iostream>
+	<conio.h>
+	"Hospital.h"
+	"Doctor.h"
+	"Patient.h"
+	"Disease.h"
+	"Dentist.h"
+	"BoneDoctor.h"
+	"Room.h"
+	"Customer.h"
+	"Manager.h"
+	"CommonRoom.h"
+	"LuxoryRoom.h"
+	<vector>
+
+1599585385 c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\manager.h
+	"Customer.h"
+
+1599585404 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\manager.cpp
+	"Manager.h"
+
+1599584825 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\patient.cpp
+	"Patient.h"
+
+1599585570 source:c:\users\muhammad muneeb\desktop\csc19f088_ab_finalexam\room.cpp
+	"Room.h"
+
